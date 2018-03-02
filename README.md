@@ -9,10 +9,10 @@
 In this project, I learned how to ...
 
 ```
-play audio
-listen for key down events
-listen for transition end events
-write functions in ES6 
+play audio files,
+listen for key down events,
+listen for transition end events,
+write functions in ES6.
 ```
 ## Built With
 
